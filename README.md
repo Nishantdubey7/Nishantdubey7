@@ -17,7 +17,7 @@ I build full-stack applications and AI-powered systems with a focus on real-worl
 - 🎓 BE Computer Engineering @ Mumbai University — CGPA **8.6 / 10**
 - 📄 Co-authored a **research publication** on utility-preserving data anonymization (PrivGuard)
 - 🏆 Hackathon Runner-Up among 50+ teams · Postman Student Expert · AWS Cloud Practitioner
-- 💼 Former Software Development Intern @ **Insys Technologies** — improved page load performance by 30%
+- 💼 Former Software Development Intern @ **Insys Technologies** 
 - 🌱 Currently exploring: **AI Agents**, **LLM tooling**, and **cloud-native deployments**
 
 ---
