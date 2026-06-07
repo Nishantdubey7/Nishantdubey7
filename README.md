@@ -4,7 +4,7 @@
 
 **Full Stack Developer & AI/ML Engineer**
 
-Mumbai, India · [LinkedIn](https://linkedin.com/in/nishantdubey6) · [Email](mailto:nishantdubey711@gmail.com)
+Mumbai, India · [LinkedIn](https://linkedin.com/in/nishantdubey6) · Email: nishantdubey711@gmail.com
 
 </div>
 
