@@ -15,7 +15,6 @@
 <div align="center">
 
 ![BE Computer Engineering](https://img.shields.io/badge/BE%20Computer%20Engineering-Mumbai%20University-7C3AED?style=flat-square&logo=academia&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.6%2F10-6D28D9?style=flat-square&logo=bookstack&logoColor=white)
 ![Batch](https://img.shields.io/badge/Graduated-2026-5B21B6?style=flat-square&logo=clockify&logoColor=white)
 
 </div>
@@ -48,7 +47,7 @@
 
 ## ◈ About
 
-I am a **Full Stack Developer** and **AI/ML Engineer** based in Mumbai, with a strong focus on building production-grade software systems and intelligent applications. A **Bachelor of Engineering graduate in Computer Engineering** from Mumbai University (CGPA: 8.6), I work at the intersection of applied AI, privacy engineering, and scalable backend architecture.
+I am a **Full Stack Developer** and **AI/ML Engineer** based in Mumbai, with a strong focus on building production-grade software systems and intelligent applications. A **Bachelor of Engineering graduate in Computer Engineering** from Mumbai University, I work at the intersection of applied AI, privacy engineering, and scalable backend architecture.
 
 My engineering philosophy centers on **product thinking** — every system I build is designed with real-world constraints, user impact, and long-term maintainability in mind. I specialize in architecting multi-modal AI pipelines, designing RESTful and event-driven backends, and delivering full-stack applications with modern React frontends.
 
