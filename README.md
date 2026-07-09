@@ -47,11 +47,11 @@
 
 ## ◈ About
 
-I am a **Full Stack Developer** and **AI/ML Engineer** based in Mumbai, with a strong focus on building production-grade software systems and intelligent applications. A **Bachelor of Engineering graduate in Computer Engineering** from Mumbai University, I work at the intersection of applied AI, privacy engineering, and scalable backend architecture.
+I am a Full Stack Developer and AI/ML Engineer based in Mumbai, currently working as a Software Developer at Essence Infotech. A Bachelor of Engineering graduate in Computer Engineering from Mumbai University, I work at the intersection of applied AI, privacy engineering, and scalable full-stack architecture.
 
-My engineering philosophy centers on **product thinking** — every system I build is designed with real-world constraints, user impact, and long-term maintainability in mind. I specialize in architecting multi-modal AI pipelines, designing RESTful and event-driven backends, and delivering full-stack applications with modern React frontends.
+My engineering philosophy centers on product thinking — every system I build is designed with real-world constraints, user impact, and long-term maintainability in mind. I specialize in architecting multi-modal AI pipelines, building event-driven backends, and delivering full-stack React applications with Redux and REST APIs.
 
-Beyond code, I am a **Postman Student Expert**, published researcher in privacy-preserving AI, and an active community organizer — having led 5+ technical workshops and hackathons.
+Beyond code, I am a Scopus-Indexed Researcher (published in Wiley Conference Proceedings, presented at ICSICE-2026), a Postman Student Expert, and an active community organizer — having led 5+ technical workshops and hackathons.
 
 <br/>
 
@@ -206,16 +206,43 @@ Beyond code, I am a **Postman Student Expert**, published researcher in privacy-
 </td>
 <td>
 
+### Software Developer
+**Essence Infotech** · Mumbai, Maharashtra
+*Full-Time · June 2025 – Present*
+
+Working as a full-stack developer on an internal **Employee Recognition Portal** — a production platform supporting peer nominations, reward redemption, leaderboards, and multi-tier manager approval workflows across the organization.
+
+- Built and shipped **10+ responsive, reusable React.js components** converted directly from Figma designs — covering search, filtering, and pagination across key portal modules.
+- Integrated **REST APIs via Axios** for real-time data sync; managed complex application state using **Redux Toolkit** and multi-route navigation with **React Router**.
+- Optimized frontend performance using **lazy loading** strategies, reducing initial load time across heavy multi-module views.
+- Collaborated cross-functionally with backend, design, and QA teams in **Agile sprint cycles** — contributing to planning, reviews, and iterative delivery.
+
+<br/>
+
+![React](https://img.shields.io/badge/React.js-7C3AED?style=flat-square&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux%20Toolkit-6D28D9?style=flat-square&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-5B21B6?style=flat-square&logo=javascript&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-4C1D95?style=flat-square&logo=axios&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-7C3AED?style=flat-square&logo=figma&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-6D28D9?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="80" align="center">
+<img src="https://img.shields.io/badge/-INT-5B21B6?style=for-the-badge" />
+</td>
+<td>
+
 ### Software Development Intern
 **Insys Technologies** · Mumbai, Maharashtra
-*Professional Internship*
+*Internship*
 
-Contributed to the development and delivery of client-facing web applications within an Agile engineering team. Worked across the full stack — from database schema design and backend API integration to frontend UI development and performance optimization.
+Contributed to the development and delivery of client-facing web applications within an Agile engineering team — spanning frontend UI development, backend integration, and database design.
 
-- Developed responsive web applications using **HTML, CSS, JavaScript, PHP, MySQL**, and **WordPress**, achieving a **30% improvement in page load performance** through optimization techniques.
-- Integrated frontend components with backend modules and MySQL-driven business logic, ensuring data integrity and seamless user experience across client projects.
-- Collaborated in **Agile-based development workflows** — participating in sprint planning, stand-ups, code reviews, and iterative delivery cycles.
-- Contributed to UI enhancements, bug triaging, and feature implementation across multiple active client engagements simultaneously.
+- Developed responsive web applications using **HTML, CSS, JavaScript, PHP, MySQL**, and **WordPress**, achieving a **30% improvement in page load performance**.
+- Integrated frontend components with backend modules and MySQL-driven business logic across multiple active client projects.
+- Participated in Agile sprint cycles including planning, stand-ups, code reviews, and iterative delivery.
 
 <br/>
 
@@ -239,10 +266,9 @@ Contributed to the development and delivery of client-facing web applications wi
 | Recognition | Details |
 |---|---|
 | 🏅 **Postman Student Expert** | Selected among a limited global student cohort for advanced API development expertise |
-| 📄 **Research Publication** | Co-authored PrivGuard — a paper on gradational anonymization methodologies for privacy-preserving AI |
+| 📄 **Scopus-Indexed Research** | Presented PrivGuard at ICSICE-2026 · Published in Wiley Conference Proceedings · Indexed in Scopus (Cert: ICSEC26181322) |
 | 🥈 **Hackathon Runner-Up** | Secured runner-up position among 50+ competing teams at Vivek Technotronix Hackathon |
 | 🎙️ **Community Leadership** | Organized and led 5+ technical workshops and hackathons, driving developer community engagement |
-| 🎓 **Academic Excellence** | Graduated with a CGPA of 8.6/10 in Bachelor of Engineering (Computer Engineering) from Mumbai University |
 
 </div>
 
