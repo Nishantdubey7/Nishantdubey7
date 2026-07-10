@@ -302,14 +302,14 @@ Contributed to the development and delivery of client-facing web applications wi
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nishantdubey7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED&border_radius=10&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantdubey7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C4B5FD&border_radius=10&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nishantdubey7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED&border_radius=10&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nishantdubey7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C4B5FD&border_radius=10&layout=compact&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Nishantdubey7&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=A855F7&fire=C084FC&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A855F7&sideLabels=A855F7&dates=6D28D9&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=Nishantdubey7&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=A855F7&fire=C084FC&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A855F7&sideLabels=A855F7&dates=6D28D9&border_radius=10" />
 
 </div>
 
